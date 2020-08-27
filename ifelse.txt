@@ -1,2 +1,4 @@
 hola soy Manu
 y Pedro está tambien escribiendo
+soy desarrollador de ifelse y me gusta mucho el karaoke
+y voy a dar cursos de desarrollo frontend para IEEE :) 
