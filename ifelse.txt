@@ -1,2 +1,3 @@
 hola soy Manu
 soy desarrollador de ifelse y me gusta mucho el karaoke
+y voy a dar cursos de desarrollo frontend para IEEE :) 
